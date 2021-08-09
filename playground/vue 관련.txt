@@ -22,6 +22,7 @@ cli 설치
 - https://cli.vuejs.org/
 - npm install -g @vue/cli
 
+Set-ExecutionPolicy RemoteSigned
 
 vue cli 생성
 vue.cmd create '프로젝트 폴더명'
